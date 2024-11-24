@@ -22,7 +22,7 @@ def split_hurigana(str):
             sylbs.pop()
             sylbs.append(j)
     huritext = "#|<".join(sylbs)
-    huritext = "|" + huritext
+    huritext = "|<" + huritext
     return huritext
 
 
