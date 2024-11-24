@@ -1,0 +1,2 @@
+# aegisub-karaoke-hurigana
+将带注音的歌词文本转化为Aegisub中卡拉OK格式注音的小工具
