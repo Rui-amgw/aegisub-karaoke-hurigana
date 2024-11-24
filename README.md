@@ -1,9 +1,9 @@
 # aegisub-karaoke-hurigana
 将带注音的歌词文本转化为Aegisub中卡拉OK格式注音的小工具
-需要安装python
 
 ## 注意事项 ##
 需要安装python
+
 歌词文件中，注音需要用半角括号括起来，放在汉字的后面
 
 ## 使用方法 ##
